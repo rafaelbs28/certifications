@@ -1,2 +1,23 @@
-# certifications
-This repository contains my professional certificates and certifications, organized for easy reference and verification. It serves as a central collection of my technical skills, completed courses, and academic achievements.
+
+# 🎓 Certificates and Certifications Repository
+
+Welcome to my professional certificates repository.  
+Here you will find an organized collection of my technical certifications, training courses, and academic achievements.
+
+---
+
+## 🏆 Professional Certifications
+
+### Microsoft
+- **AZ-900 – Microsoft Azure Fundamentals**  
+  📄 certificates/technology/azure-fundamentals.pdf
+
+---
+
+## 📚 Relevant Courses
+
+- **Effective Communication** — Training Program  
+  
+
+---
+
